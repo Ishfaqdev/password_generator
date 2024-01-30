@@ -23,7 +23,7 @@ Django Password Generator is a web application built with Django that allows use
 
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   venv\Scripts\activate  # On MacOS, use `source venv/bin/activate`
    ```
 
 3. Run the development server:
