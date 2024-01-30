@@ -1,7 +1,5 @@
 # Django Password Generator
 
-![Password Generator ScreenShot](https://github.com/Ishfaqdev/password_generator/blob/main/screenshots/password.png?raw=true)
-
 ## Overview
 
 Django Password Generator is a web application built with Django that allows users to generate secure passwords based on their preferences for total letters, symbols, and numbers.
@@ -44,21 +42,20 @@ Django Password Generator is a web application built with Django that allows use
 
 ## Screenshots
 
-https://github.com/Ishfaqdev/password_generator/blob/main/screenshots/password.png?raw=true
+![Password Generator ScreenShot](https://github.com/Ishfaqdev/password_generator/blob/main/screenshots/password.png?raw=true)
 
 ## Technologies Used
 
+- Python
 - Django
 - Bootstrap
-- ...
+- HTML
+- Javascript
+- CSS
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Special thanks to [OpenAI](https://www.openai.com/) for the GPT-3.5 model that helped in generating this README.
 
 ## Contributing
 
