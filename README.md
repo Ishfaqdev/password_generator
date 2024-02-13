@@ -15,7 +15,7 @@ Django Password Generator is a web application built with Django that allows use
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/django-password-generator.git
+   git clone https://github.com/Ishfaqdev/django-password-generator.git
    cd django-password-generator
    ```
 
